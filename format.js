@@ -40,5 +40,5 @@ var formatYYYYMMDD = (date) => {
 
     return fullDate.join("-");
 }
-// Output <== 03-18-2020?
+// Output <== 03-18-2020
 
